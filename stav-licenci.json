@@ -1,9 +1,14 @@
 {
  "stav": {
   "v": 1,
-  "vydano": "2026-11-24",
-  "licence": {}
+  "vydano": "2026-11-26",
+  "licence": {
+   "L-2026-001": {
+    "stav": "platna",
+    "do": null
+   }
+  }
  },
  "klic_id": "cup-202611",
- "podpis": "3yFelUwg8y0x8bdnQEXmb7q5AWo3IZABofK1CMXJ6sC+hmstZmdhhjynnBmAE6pntR97c6x7hxpT8KyJB7mlAg=="
+ "podpis": "cAPSGdHf5IA1jOjkOrv34f824MvsLEZs2Jn0ws7ORpJ+mICxPnCTbtPrI34VNF6+goj4B3scf4yAZUXnbjl4BA=="
 }
